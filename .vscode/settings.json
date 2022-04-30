@@ -1,0 +1,12 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "background.loop": true,
+  "guides.indent.backgrounds": [
+    "red"
+  ],
+  "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "editor.columnSelection": false,
+  "editor.definitionLinkOpensInPeek": true,
+  "liveshare.guestApprovalRequired": true
+}
